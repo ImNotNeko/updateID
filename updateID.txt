@@ -1,2 +1,5 @@
 1.07
-https://utsc.utoronto.ca/mgmt/sites/utsc.utoronto.ca.mgmt/files/images/page/0cooptv1.png
+https://raw.githubusercontent.com/ImNotNeko/updateID/main/banner1.png
+https://raw.githubusercontent.com/ImNotNeko/updateID/main/banner2.png
+https://raw.githubusercontent.com/ImNotNeko/updateID/main/banner3.png
+https://raw.githubusercontent.com/ImNotNeko/updateID/main/banner4.png
