@@ -1,4 +1,4 @@
-1.012
+1.013
 https://raw.githubusercontent.com/ImNotNeko/updateID/main/banner1.png
 https://raw.githubusercontent.com/ImNotNeko/updateID/main/banner2.png
 https://raw.githubusercontent.com/ImNotNeko/updateID/main/banner3.png
